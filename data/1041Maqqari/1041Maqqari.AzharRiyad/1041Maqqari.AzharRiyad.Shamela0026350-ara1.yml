@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7432
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: There is no edition listed on worldcat published in
-    1939, both the above refer to 1904, but it is the same pagination, etc.
-    Good correspondence with no obvious errors. However, I found
-    distinguishing between what should be hierarchical sections vs. semantic
-    units somewhat difficult and this should be checked.
+        1939, both the above refer to 1904, but it is the same pagination, etc.
+        Good correspondence with no obvious errors. However, I found
+        distinguishing between what should be hierarchical sections vs. semantic
+        units somewhat difficult and this should be checked.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-11-12
-90#VERS#ISSUES###: HTML_TAGS
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
