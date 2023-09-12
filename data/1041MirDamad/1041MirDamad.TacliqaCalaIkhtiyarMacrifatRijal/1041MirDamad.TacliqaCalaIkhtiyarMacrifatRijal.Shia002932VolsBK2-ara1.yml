@@ -3,7 +3,7 @@
 00#VERS#URI######: 1041MirDamad.TacliqaCalaIkhtiyarMacrifatRijal.Shia002932VolsBK2-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/22315124
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/22315124
-80#VERS#LINKS####:
+80#VERS#LINKS####: 
     vol1@https://archive.org/download/ekhteyaraldamad-2/ekhteyaraldamad-1.pdf,
     vol2@https://archive.org/download/ekhteyaraldamad-2/ekhteyaraldamad-2.pdf
 90#VERS#ANNOTATOR: PV
@@ -28,5 +28,10 @@
     NOTE OF THE REVIEWER (HRH): Editorial removed. Untagged headers tagged. Body
     text separated from the titles. Headers that were not aligned in one line
     corrected.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1050AH/pre-clean/data/1041MirDamad/1041MirDamad.TacliqaCalaIkhtiyarMacrifatRijal/1041MirDamad.TacliqaCalaIkhtiyarMacrifatRijal.Shia002932VolsBK2-ara1.mARkdown
 90#VERS#DATE#####: 2022-08-16
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

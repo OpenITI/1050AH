@@ -12,5 +12,10 @@
     introductions etc.). The texts also don't refer to a specific edition
     and pagination is not present. The advantage of these texts is that
     there is a clear indication of the Quran passages explained by the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1050AH/pre-clean/data/1050SadrDinShirazi/1050SadrDinShirazi.Tafsir/1050SadrDinShirazi.Tafsir.Tafsir04040-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: INCOMPLETE_VERSION, PAGINATION
+90#VERS#ISSUES###: INCOMPLETE_VERSION, PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

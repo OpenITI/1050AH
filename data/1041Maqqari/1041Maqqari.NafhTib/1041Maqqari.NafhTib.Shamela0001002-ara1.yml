@@ -33,5 +33,10 @@
     and should not be tagged (except a few ones that belongs to women and
     can be considered biographies). 7- Some of the poems do not have any
     sign between the two hemistiches.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1050AH/pre-clean/data/1041Maqqari/1041Maqqari.NafhTib/1041Maqqari.NafhTib.Shamela0001002-ara1.completed
 90#VERS#DATE#####: 2020-08-21
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, HTML_TAGS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
