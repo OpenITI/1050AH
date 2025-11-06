@@ -13,5 +13,7 @@
 30#AUTH#DIED###AH: 1040-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: EI2: " “son-in-law”, an honorific title given to mīr muḥammad bāḳir b. s̲h̲ams al-dīn muḥammad al-Ḥusaynī al-astarābadī , Called also al-Muʿallim al-T̲h̲ālit̲h̲ , the “third teacher” in philosophy ¶ after al-Fārābī.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1679
+90#AUTH#COMMENT##: EI2: " “son-in-law”, an honorific title given to mīr muḥammad bāḳir b. s̲h̲ams al-dīn muḥammad al-Ḥusaynī al-astarābadī , Called also al-Muʿallim al-T̲h̲ālit̲h̲ , the “third teacher” in philosophy
+    after al-Fārābī.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1679
